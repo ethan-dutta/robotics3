@@ -170,6 +170,7 @@ if __name__ == '__main__':
         inlooptime = round(inlooptime)
         ilt = int(inlooptime)
         dt = ilt - prt
+        inlooptime = prelooptime
 
 
 
