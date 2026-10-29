@@ -169,7 +169,6 @@ if __name__ == '__main__':
         inlooptime = time.time()
         inlooptime = round(inlooptime)
         ilt = int(inlooptime)
-        #dt = nptime[1] - nptime[0]
         dt = ilt - prt
 
 
